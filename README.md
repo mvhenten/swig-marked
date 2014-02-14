@@ -8,7 +8,6 @@ There is already a markdown filter/tag in the package `swig-extras`, however, th
 [markdown](https://github.com/evilstreak/markdown-js), and I wanted to have `marked` for it's
 support for tables and GFM.
 
-
 usage:
 
 ```javascript
@@ -40,3 +39,9 @@ usage:
     });
 
 ```
+
+attribution
+===========
+
+A large part of this code is based upon upon the [original markdown](https://github.com/paularmstrong/swig-extras) tag writen by Paul Armstrong,
+and extended from the marked tag written by [Jon Schlinkert, Brian Woodward & contributors](https://github.com/assemble/swig-extensions).
